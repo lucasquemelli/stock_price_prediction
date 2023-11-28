@@ -1,3 +1,4 @@
 # Stock Price Prediction
 
-<code><img width="100%" src="https://github.com/lucasquemelli/credit_default_risk_prediction/blob/main/Images/creditrisk.jpg"></code>
+<code><img width="100%" src="https://github.com/lucasquemelli/stock_price_prediction/blob/main/Images/stock_price.jpeg"></code>
+
