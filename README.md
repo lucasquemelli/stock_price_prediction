@@ -28,3 +28,4 @@ So, as opposed to standard feed-forward neural nets, LSTMs have the potential to
 
 To predict Netflix (NFLX) stock price based on daily data over 3 years.
 
+**NOTE**: this is a shorter project, since to predict stock price we use daily data. For a interval of 3 year we only have around 900 data points. That's too little to perform multiple analysis. But it is enough to develop a Machine Learning model.
